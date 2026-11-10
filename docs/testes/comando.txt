@@ -1,0 +1,8 @@
+
+Comando utilizado para executar os testes da classe Cliente:
+
+npm run test:cliente
+
+Comando utilizado para compilar o projeto:
+
+npm run build
